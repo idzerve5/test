@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="logo_spargelis.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72604517"
+     inkscape:cx="397.3582"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Slānis 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="fill:#a1ca96;stroke-width:0.274663"
+       d="m 201.52269,131.19018 c 0,32.40322 0.40334,58.79639 -95.11288,58.67121 -95.556125,-0.12524 -94.960554,-26.26832 -95.112872,-58.67121 -0.161941,-34.449886 0.344285,-58.823194 95.112872,-58.671211 94.8014,0.152035 95.11288,26.267993 95.11288,58.671211 z"
+       sodipodi:nodetypes="sssss" />
+    <path
+       id="path2"
+       style="fill:#426d39;stroke-width:0.264583"
+       d="m 132.22736,81.391291 c -2.81426,-0.0169 -5.55696,0.154353 -7.22901,1.026294 -1.41747,0.739181 -2.65001,1.363936 -3.71967,1.890841 -0.0151,0.0017 -0.0303,0.0035 -0.0455,0.0052 -7.97466,0.898872 -17.02498,3.824449 -27.007512,6.649075 -14.770741,4.179484 -20.379708,5.090833 -26.675067,10.137229 -13.151787,10.54254 -27.059164,22.7884 -36.010248,33.88113 -13.231009,16.39669 -7.332472,25.78791 -4.684499,26.10357 6.267836,0.74718 14.737654,-27.05039 41.559811,-47.81613 14.741812,-11.41312 35.169655,-18.544334 49.399635,-21.110391 3.53914,1.022364 9.23638,1.606151 15.3014,2.122351 7.82095,0.665649 20.88409,-4.752185 20.6499,-8.568986 -0.23419,-3.816801 -6.04632,-4.699056 -13.88081,-4.218347 -1.95862,0.120177 -4.84418,-0.0849 -7.65845,-0.101803 z"
+       sodipodi:nodetypes="ssccssssscsssss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.0879px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#426d39;fill-opacity:1;stroke-width:0.489149"
+       x="80.496323"
+       y="113.46171"
+       id="text3"
+       transform="scale(0.77263535,1.2942716)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';stroke-width:0.489149"
+         x="80.496323"
+         y="113.46171">SPARGELIS</tspan></text>
+    <path
+       id="path3"
+       style="fill:#426d39;stroke-width:0.0685508"
+       d="m 126.73994,155.59241 c -2.97622,2.3056 -4.78165,0.52745 -5.37529,-0.48338 -0.59364,-1.0108 3.6053,0.44983 3.22555,-3.17703 -0.22567,-2.15465 4.47157,-2.32876 5.0652,-1.31797 0.59363,1.0108 0.0608,2.67279 -2.91546,4.97838 z"
+       sodipodi:nodetypes="sssss" />
+  </g>
+</svg>
